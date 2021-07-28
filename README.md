@@ -6,4 +6,4 @@ socket.io
 moment
 
 dev dependency
-modemon
+nodemon
