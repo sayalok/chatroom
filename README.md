@@ -1,4 +1,4 @@
-# Chat app with chatroom
+# Chat app 
 
 Nodejs
 express
